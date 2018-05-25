@@ -1,6 +1,6 @@
 # my-first-app
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+
 
 ## Setup
 
