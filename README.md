@@ -1,5 +1,5 @@
 # HLW-World
-> A Probot App
+> Bot
 ## Setup
 
 ```sh
